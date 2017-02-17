@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <View style={styles.app}>
         <View style={styles.appHeader}>
-          <Text style={styles.appBanner}>Welcome to Rax</Text>
+          <Text style={styles.appBanner}>Welcome to Rax. This is New.</Text>
         </View>
         <Text style={styles.appIntro}>
           To get started, edit src/App.js and save to reload.
